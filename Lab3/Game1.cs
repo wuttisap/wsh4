@@ -88,8 +88,10 @@ namespace Lab3_game
                 }
 
             }
-
             spriteBatch.End();
+
+            /*-..-/*
+            
             /*krub*/
             base.Draw(gameTime);
 
