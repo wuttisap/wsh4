@@ -90,7 +90,7 @@ namespace Lab3_game
             }
 
             spriteBatch.End();
-  /*kuey*/
+            /*kuey*/
             base.Draw(gameTime);
 
         }
